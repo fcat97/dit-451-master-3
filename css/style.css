@@ -78,8 +78,9 @@ h4 {
 }
 
 .button-color:hover {
-    background-color: darkslateblue;
+    background-color: #223047;
     color: white;
+    border: 1px solid white;
 }
 
 .button-dark {
@@ -89,7 +90,7 @@ h4 {
 }
 
 .button-dark:hover {
-    background-color: darkslateblue;
+    background-color: #223047;
     color: white;
     border: none;
 }
@@ -246,7 +247,7 @@ h4 {
 }
 
 .middle-branding .brand-2 .card {
-    width: 70%;
+    width: 90%;
     margin: 10px;
     padding: 20px 10px;
     border: 0px;
@@ -256,6 +257,11 @@ h4 {
 
     display: flex;
     align-items: center;
+}
+
+.middle-branding .brand-2 .card:hover {
+    background-color: #223047;
+    color: white;
 }
 
 .middle-branding .brand-2 .card i {
@@ -479,7 +485,7 @@ h4 {
 }
 
 .sitemap a:hover {
-    color: blueviolet;
+    color: #223047;
 }
 
 .subscribe {
